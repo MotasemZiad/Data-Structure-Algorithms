@@ -9,7 +9,8 @@ public class SimpleArray {
         System.out.println("Enter a number");
         System.out.println(getFactorial(in.nextInt()));
 
-
+        // You can uncomment each of the following block of codes if you want to try any algorithm related to Arrays.
+        
 
         // **************************************************
         /*
