@@ -35,7 +35,7 @@ An algorithm is a procedure used for solving a problem or performing a computati
 - Sorting Algorithms
 - Searching Algorithms
 - Graph Algorithms
-- Gready Algorithms
+- Greedy Algorithms
 
 
 #### Sorting Algorithms
