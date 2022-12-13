@@ -35,6 +35,7 @@ An algorithm is a procedure used for solving a problem or performing a computati
 - Sorting Algorithms
 - Searching Algorithms
 - Graph Algorithms
+- Gready Algorithms
 
 
 #### Sorting Algorithms
@@ -45,5 +46,8 @@ An algorithm is a procedure used for solving a problem or performing a computati
 
 #### Graph Algorithms
 >  It is used to find the solutions of problems like finding the shortest path between cities, real-life problems like traveling salesman problems.
+
+#### Greedy Algorithm
+> It is an approach for solving a problem by selecting the best option available at the moment.
 
 
